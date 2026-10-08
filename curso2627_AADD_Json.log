@@ -1,0 +1,76 @@
+2026-10-08 12:36:13,820 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 12:36:13,901 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 12:36:13,902 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 12:36:13,902 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 12:36:13,902 [main] INFO  App                                      - Finalizando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 12:51:45,253 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 12:51:45,344 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 12:51:45,345 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 12:51:45,345 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 12:51:45,346 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: es.ciudadescolar.modelo.Alumno@140c9f39
+2026-10-08 12:51:45,346 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:51:45,346 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: es.ciudadescolar.modelo.Alumno@4d910fd6
+2026-10-08 12:51:45,346 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:51:45,346 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: es.ciudadescolar.modelo.Alumno@26275bef
+2026-10-08 12:51:45,346 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:51:45,346 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: es.ciudadescolar.modelo.Alumno@7690781
+2026-10-08 12:51:45,346 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:51:45,346 [main] INFO  App                                      - Finalizado el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 12:52:17,176 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 12:52:17,319 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 12:52:17,320 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 12:52:17,320 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 12:52:17,321 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=carlitos, edad=21, expediente=1111]
+2026-10-08 12:52:17,321 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:52:17,321 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=menganito, edad=18, expediente=2222]
+2026-10-08 12:52:17,321 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:52:17,322 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=fermin, edad=24, expediente=3333]
+2026-10-08 12:52:17,322 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:52:17,322 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=julito, edad=23, expediente=4444]
+2026-10-08 12:52:17,322 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 12:52:17,322 [main] INFO  App                                      - Finalizado el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:12:02,607 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:12:02,688 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 13:12:02,689 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 13:12:02,689 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 13:12:02,690 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=carlitos, edad=21, expediente=1111]
+2026-10-08 13:12:02,691 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:12:02,691 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=menganito, edad=18, expediente=2222]
+2026-10-08 13:12:02,691 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:12:02,691 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=fermin, edad=24, expediente=3333]
+2026-10-08 13:12:02,691 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:12:02,691 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=julito, edad=23, expediente=4444]
+2026-10-08 13:12:02,691 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:12:02,691 [main] INFO  App                                      - Finalizado el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:12:02,692 [main] INFO  App                                      - comenzando la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
+2026-10-08 13:12:02,697 [main] INFO  App                                      - finalizada la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
+2026-10-08 13:17:32,924 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:17:33,010 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 13:17:33,011 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 13:17:33,011 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 13:17:33,012 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=carlitos, edad=21, expediente=1111]
+2026-10-08 13:17:33,012 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:17:33,012 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=menganito, edad=18, expediente=2222]
+2026-10-08 13:17:33,012 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:17:33,012 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=fermin, edad=24, expediente=3333]
+2026-10-08 13:17:33,012 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:17:33,012 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=julito, edad=23, expediente=4444]
+2026-10-08 13:17:33,012 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:17:33,013 [main] INFO  App                                      - Finalizado el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:17:33,013 [main] INFO  App                                      - comenzando la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
+2026-10-08 13:17:33,031 [main] INFO  App                                      - finalizada la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
+2026-10-08 13:18:50,950 [main] INFO  App                                      - Comenzando el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:18:51,035 [main] INFO  es.ciudadescolar.util.JsonManager        - el curso es: 2024-2025
+2026-10-08 13:18:51,035 [main] INFO  es.ciudadescolar.util.JsonManager        - el codigo es: 27015
+2026-10-08 13:18:51,036 [main] INFO  es.ciudadescolar.util.JsonManager        - el centro es: IES Ciudad Escolar
+2026-10-08 13:18:51,037 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=carlitos, edad=21, expediente=1111]
+2026-10-08 13:18:51,037 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:18:51,037 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=menganito, edad=18, expediente=2222]
+2026-10-08 13:18:51,037 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:18:51,037 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=fermin, edad=24, expediente=3333]
+2026-10-08 13:18:51,037 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:18:51,037 [main] INFO  es.ciudadescolar.util.JsonManager        - Nuevo alumno: Alumno [nombre=julito, edad=23, expediente=4444]
+2026-10-08 13:18:51,037 [main] TRACE es.ciudadescolar.util.JsonManager        - Anaidido alumno a la coleccion
+2026-10-08 13:18:51,038 [main] INFO  App                                      - Finalizado el parseo del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos.json]
+2026-10-08 13:18:51,038 [main] INFO  App                                      - comenzando la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
+2026-10-08 13:18:51,057 [main] INFO  App                                      - finalizada la generacion del fichero Json [C:\Users\alumno\AADD\ra1-json\alumnos2.json]
